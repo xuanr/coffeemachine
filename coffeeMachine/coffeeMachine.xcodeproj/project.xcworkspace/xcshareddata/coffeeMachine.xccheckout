@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>B7909E24-2C2F-4916-9520-ADE7D873BC76</string>
+	<key>IDESourceControlProjectName</key>
+	<string>coffeeMachine</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>6108ECF5-E7F7-4E0D-8D7B-3CB49F21885F</key>
+		<string>https://svn.hz.netease.com/svn/mag_eManual/trunk/Vendor/Client/iOS/coffeeMachine</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>coffeeMachine.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>6108ECF5-E7F7-4E0D-8D7B-3CB49F21885F</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>6108ECF5-E7F7-4E0D-8D7B-3CB49F21885F</key>
+		<string>https://svn.hz.netease.com/svn/mag_eManual</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://svn.hz.netease.com/svn/mag_eManual/trunk/Vendor/Client/iOS/coffeeMachine/coffeeMachine.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>6108ECF5-E7F7-4E0D-8D7B-3CB49F21885F</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>6108ECF5-E7F7-4E0D-8D7B-3CB49F21885F</string>
+			<key>IDESourceControlWCCName</key>
+			<string>coffeeMachine</string>
+		</dict>
+	</array>
+</dict>
+</plist>
