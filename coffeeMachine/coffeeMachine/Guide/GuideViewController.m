@@ -65,6 +65,22 @@
     self.lastContentOffsetX = 0;
     
     for (int page = 0; page<kNumberOfPages; page++) {
+//        UIView *view = nil;
+//        view = [[UIView alloc]init];
+//        view.frame = self.scrollView.frame;
+//        if (page == 0) {
+//            view.backgroundColor = [UIColor redColor];
+//        }
+//        if (page == 1) {
+//            view.backgroundColor = [UIColor blueColor];
+//        }
+//        if (page == 2) {
+//            view.backgroundColor = [UIColor greenColor];
+//        }
+//        if (page == 3) {
+//            view.backgroundColor = [UIColor grayColor];
+//        }
+//        [self.scrollView addSubview:view];
         GuideView *view = nil;
         if (page == 1) {
             view = [[CoffeeShakeGuideView alloc]initWithNum:page+1];
@@ -104,15 +120,15 @@
 
 - (void)scrollViewDidScroll:(UIScrollView *)scrollView
 {
-    CGPoint point = scrollView.contentOffset;
-    
-    if ((int)point.x % 320 == 0)
-    {
-        int page = (int)point.x/320;
-        
-        GuideView *view = [self.subViews objectAtIndex:page];
-        [view beginAnimate];
-    }
+//    CGPoint point = scrollView.contentOffset;
+//    
+//    if ((int)point.x % 320 == 0)
+//    {
+//        int page = (int)point.x/320;
+//        
+//        GuideView *view = [self.subViews objectAtIndex:page];
+//        [view beginAnimate];
+//    }
 }
 
 - (void)didReceiveMemoryWarning

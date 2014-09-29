@@ -5,41 +5,65 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>B7909E24-2C2F-4916-9520-ADE7D873BC76</string>
+	<string>BE1BCA5A-17A1-4681-9897-A63D6D782D02</string>
 	<key>IDESourceControlProjectName</key>
 	<string>coffeeMachine</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>6108ECF5-E7F7-4E0D-8D7B-3CB49F21885F</key>
+		<key>346F9966-A044-4CF3-A2F6-7D8FD9C4CC3F</key>
+		<string>https://github.com/xuanr/coffeemachine.git</string>
+		<key>74E1123C62B157CAC81AD164F83CAF7482E39F13</key>
+		<string>https://github.com/xuanr/coffeemachine.git</string>
+		<key>d1e08909-e8cd-4eb1-87e6-8e555a445390++378</key>
 		<string>https://svn.hz.netease.com/svn/mag_eManual/trunk/Vendor/Client/iOS/coffeeMachine</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>coffeeMachine.xcodeproj/project.xcworkspace</string>
+	<string>coffeeMachine.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>6108ECF5-E7F7-4E0D-8D7B-3CB49F21885F</key>
+		<key>346F9966-A044-4CF3-A2F6-7D8FD9C4CC3F</key>
+		<string>../../../coffeemachine_git</string>
+		<key>74E1123C62B157CAC81AD164F83CAF7482E39F13</key>
+		<string>../../..</string>
+		<key>d1e08909-e8cd-4eb1-87e6-8e555a445390++378</key>
 		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectRepositoryRootDictionary</key>
 	<dict>
-		<key>6108ECF5-E7F7-4E0D-8D7B-3CB49F21885F</key>
+		<key>d1e08909-e8cd-4eb1-87e6-8e555a445390++378</key>
 		<string>https://svn.hz.netease.com/svn/mag_eManual</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
 	<string>https://svn.hz.netease.com/svn/mag_eManual/trunk/Vendor/Client/iOS/coffeeMachine/coffeeMachine.xcodeproj</string>
 	<key>IDESourceControlProjectVersion</key>
-	<integer>110</integer>
+	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>6108ECF5-E7F7-4E0D-8D7B-3CB49F21885F</string>
+	<string>d1e08909-e8cd-4eb1-87e6-8e555a445390++378</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>74E1123C62B157CAC81AD164F83CAF7482E39F13</string>
+			<key>IDESourceControlWCCName</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.subversion</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>6108ECF5-E7F7-4E0D-8D7B-3CB49F21885F</string>
+			<string>d1e08909-e8cd-4eb1-87e6-8e555a445390++378</string>
 			<key>IDESourceControlWCCName</key>
 			<string>coffeeMachine</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>346F9966-A044-4CF3-A2F6-7D8FD9C4CC3F</string>
+			<key>IDESourceControlWCCName</key>
+			<string>coffeemachine_git</string>
 		</dict>
 	</array>
 </dict>
